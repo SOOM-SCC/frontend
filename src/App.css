@@ -198,7 +198,7 @@
 .hero-main-btn {
   position: absolute;
   left: 131px;   /* 버튼 프레임 위치는 기존 값 유지 */
-  top: 457px;
+  top: calc(70% + 54px);
   width: 257px;
   height: 79px;
 

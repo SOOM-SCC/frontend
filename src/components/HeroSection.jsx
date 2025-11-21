@@ -13,7 +13,7 @@ function HeroSection() {
         위급 상황,<br />
         한 번의 클릭으로 빠르게 신고하세요!
         </h1>
-
+        
       <button className="hero-main-btn">원클릭 신고</button>
 
       <img
